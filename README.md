@@ -8,7 +8,7 @@
 
 English / [简体中文](./README_CN.md)
 
-<a href="https://trendshift.io/repositories/5973" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5973" alt="ChatGPTNextWeb%2FChatGPT-Next-Web | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/5973" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5973" alt="myanle%2FChatGPT-Next-Web | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ✨ Light and Fast AI Assistant,with Claude, DeepSeek, GPT4 & Gemini Pro support.
 
@@ -29,7 +29,7 @@ English / [简体中文](./README_CN.md)
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA) [<img src="https://vercel.com/button" alt="Deploy on Vercel" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat) [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/ChatGPTNextWeb/NextChat)
+[<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA) [<img src="https://vercel.com/button" alt="Deploy on Vercel" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmyanle%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat) [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/myanle/NextChat)
 
 [<img src="https://github.com/user-attachments/assets/903482d4-3e87-4134-9af1-f2588fa90659" height="50" width="" >](https://monica.im/?utm=nxcrp)
 
@@ -47,7 +47,7 @@ English / [简体中文](./README_CN.md)
 
 > [👉 Click Here to Install Now](https://apps.apple.com/us/app/nextchat-ai/id6743085599)
 
-> [❤️ Source Code Coming Soon](https://github.com/ChatGPTNextWeb/NextChat-iOS)
+> [❤️ Source Code Coming Soon](https://github.com/myanle/NextChat-iOS)
 
 ![Github iOS Image](https://github.com/user-attachments/assets/e0aa334f-4c13-4dc9-8310-e3b09fa4b9f3)
 
@@ -105,17 +105,17 @@ For enterprise inquiries, please contact: **business@nextchat.dev**
 - [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
 - [x] Desktop App with tauri
 - [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [x] Artifacts: Easily preview, copy and share generated content/webpages through a separate window [#5092](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/5092)
-- [x] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
-  - [x] network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
-- [x] Supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+- [x] Artifacts: Easily preview, copy and share generated content/webpages through a separate window [#5092](https://github.com/myanle/ChatGPT-Next-Web/pull/5092)
+- [x] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/myanle/ChatGPT-Next-Web/issues/5353)
+  - [x] network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/myanle/ChatGPT-Next-Web/issues/5353)
+- [x] Supports Realtime Chat [#5672](https://github.com/myanle/ChatGPT-Next-Web/issues/5672)
 - [ ] local knowledge base
 
 ## What's New
 
-- 🚀 v2.15.8 Now supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
-- 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
-- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- 🚀 v2.15.8 Now supports Realtime Chat [#5672](https://github.com/myanle/ChatGPT-Next-Web/issues/5672)
+- 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/myanle/ChatGPT-Next-Web/issues/5379)
+- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/myanle/NextChat-Awesome-Plugins)
 - 🚀 v2.14.0 Now supports Artifacts & SD
 - 🚀 v2.10.1 support Google Gemini Pro model.
 - 🚀 v2.9.11 you can use azure endpoint now.
@@ -473,8 +473,8 @@ If you want to add a new translation, read this [document](./docs/translation.md
 
 ### Contributors
 
-<a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" />
+<a href="https://github.com/myanle/ChatGPT-Next-Web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=myanle/ChatGPT-Next-Web" />
 </a>
 
 ## LICENSE
